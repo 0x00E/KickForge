@@ -1,0 +1,6 @@
+KickForgeMessage: '§c服务器禁止mod客户端进入，请使用纯净客户端'
+KickDefMessage: '§c服务器禁止纯净客户端进入，请使用mod客户端'
+KickForge: true
+#是否禁止Forge客户端
+KickDef: false
+#是否禁止纯净客户端

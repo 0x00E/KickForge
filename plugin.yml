@@ -1,0 +1,6 @@
+name: KickForge
+version: 1.0
+author: qianniancc
+description: Kick Forge player!
+main: github.qianniancc.kickforge.Main
+commands: []
